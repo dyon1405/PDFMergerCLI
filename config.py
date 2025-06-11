@@ -1,1 +1,1 @@
-PDF_NAME="Merger.pdf"
+PDF_NAME = "MyCustomMergedFile.pdf"
